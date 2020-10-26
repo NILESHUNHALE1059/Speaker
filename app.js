@@ -8,7 +8,7 @@ let a = document.querySelector(".a");
 let ip= document.getElementById("ip");
 let js= document.getElementById("js");
 
-ip.placeholder="fef";
+
 
 var person = {
     
